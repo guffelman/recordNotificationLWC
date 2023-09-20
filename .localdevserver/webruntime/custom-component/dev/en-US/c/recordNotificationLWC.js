@@ -1,0 +1,1 @@
+{"errors":[{"filename":"/Users/garrett/Documents/Projects/RecordNotificationLWC/RecordNotificationLWC/force-app/main/default/lwc/recordNotificationLWC/recordNotificationLWC.html","location":{"line":0,"column":0,"start":0,"length":0},"code":"","message":"&& is not valid attribute for div. Attribute name must end with alpha-numeric character."}]}
